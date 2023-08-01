@@ -1,14 +1,13 @@
 # TestNG Framework with Appium, Java 11 and Allure Report on IOS
-Le Framework Basic Mobile IOS est  framework d'automation de test mobile basé sur Appium et TestNG, contenant Allure Report et qui s'exécute sur les devices et simulateurs IOS.
+Le Framework Basic Mobile IOS est un framework d'automation de test mobile basé sur Appium et TestNG, contenant Allure Report et qui s'exécute sur les devices et simulateurs IOS.
 
 Si vous souhaitez tester une application mobile de préférence sur IOS et Mac.<br/>
 🌟Si vous êtes TESTEUR AUTOMATICIEN et que vous voulez apprendre à automatiser des tests fonctionnels.<br/>
 🌟Si vous êtes un RECRUTEUR pour évaluer les compétences de nos testeurs automaticiens talentueux.<br/>
 🌟 Ou encore si vous êtes un PARTICULIER ou une ENTREPRISE à la recherche de solution répondant à vos besoins d'automatisation en test alors ce framework est fait pour vous!<br/><br/>
 
-🎁 Ce framework permet d'exécuter vos tests en séquentiel sur le périphérique IOS de votre choix, que ce soit un device physique ou un simulateur IOS.<br/>
+🎁 Ce framework permet d'exécuter vos tests en séquentiel sur le périphérique IOS de votre choix, que ce soit un device physique ou un simulateur IOS et également sur la plateforme Mac.<br/>
 🎁 Vous pouvez consulter un rapport détaillé des tests avec Allure report.<br/>
-🎁 Il s'exécute également sur la plateforme Mac.<br/>
 
 ### 🎯Sommaire:
 🏷️[Architecture et Présentation du framework](#architecture-et-présentation-du-framework)<br/>
@@ -80,21 +79,21 @@ Si vous souhaitez tester une application mobile de préférence sur IOS et Mac.<
 
 ## 🎯Environnement de dévelopement
 
-| **Logiciel**                   | **version**       | **Description**                                                                                                                                                          | **Windows** | **Macbook** |
-|--------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
-| Java JDK                       | JAVA 11           | [Dowloadable here](https://www.oracle.com/eg/java/technologies/javase/jdk11-archive-downloads.html)                                                                      | X           | X           |
-| Android SDK via Android studio | current available | [Dowloadable here](https://developer.android.com/studio?gclid=Cj0KCQjwuLShBhC_ARIsAFod4fIcuMWb00yxfjGTPrFEemQ_pc3UrvmvB45VSYcnueWrfyX8fLJpz_4aAthfEALw_wcB&gclsrc=aw.ds) | X           | X           |
-| Node.js                        | 18.15.0           | [Dowloadable here](https://nodejs.org/en/download)                                                                                                                       | X           | X           |
-| npm                            | 9.5.0             | Downloaded with node.js                                                                                                                                                  | X           | X           |
-| appium                         | 2.0.0-beta.59     | terminal: npm install -g appium@next                                                                                                                                     | X           | X           |
-| appium client (wd)             | current available | terminal: npm install wd                                                                                                                                                 | X           | X           |
-| Carthage                       | -                 | terminal: brew install carthage                                                                                                                                          |             | X           |
-| libimobiledevice               | current available | terminal : brew install libimobiledevice                                                                                                                                 |             | X           |
-| Xcode                          | -                 | Downloadable via App Store                                                                                                                                               |             | X           |
-| Authorize-ios                  | current available | terminal : npm install authorize-ios                                                                                                                                     |             | X           |
-| ios-deploy                     | current available | terminal : npm install ios-deploy                                                                                                                                        |             | X           |
-| ideviceinstaller               | current available | terminal : npm install ideviceinstaller                                                                                                                                  |             | X           |
-| maven                          | 3.8.6             | terminal : brew install maven                                                                                                                                            | X           | X           |
+| **Logiciel**                   | **version**       | **Description**                                                                                                                                                          |**Macbook** |
+|--------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Java JDK                       | JAVA 11           | [Dowloadable here](https://www.oracle.com/eg/java/technologies/javase/jdk11-archive-downloads.html)                                                                      |X           |
+| Android SDK via Android studio | current available | [Dowloadable here](https://developer.android.com/studio?gclid=Cj0KCQjwuLShBhC_ARIsAFod4fIcuMWb00yxfjGTPrFEemQ_pc3UrvmvB45VSYcnueWrfyX8fLJpz_4aAthfEALw_wcB&gclsrc=aw.ds) |X           |
+| Node.js                        | 18.15.0           | [Dowloadable here](https://nodejs.org/en/download)                                                                                                                       |X           |
+| npm                            | 9.5.0             | Downloaded with node.js                                                                                                                                                  |X           |
+| appium                         | 2.0.0-beta.59     | terminal: npm install -g appium@next                                                                                                                                     |X           |
+| appium client (wd)             | current available | terminal: npm install wd                                                                                                                                                 |X           |
+| Carthage                       | -                 | terminal: brew install carthage                                                                                                                                          |X           |
+| libimobiledevice               | current available | terminal : brew install libimobiledevice                                                                                                                                 |X           |
+| Xcode                          | -                 | Downloadable via App Store                                                                                                                                               |X           |
+| Authorize-ios                  | current available | terminal : npm install authorize-ios                                                                                                                                     |X           |
+| ios-deploy                     | current available | terminal : npm install ios-deploy                                                                                                                                        |X           |
+| ideviceinstaller               | current available | terminal : npm install ideviceinstaller                                                                                                                                  |X           |
+| maven                          | 3.8.6             | terminal : brew install maven                                                                                                                                            |X           |
 
 ## 🎯Installation du framework
 
