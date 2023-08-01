@@ -1,10 +1,10 @@
 # TestNG Framework with Appium, Java 11 and Allure Report on IOS
 Le Framework Basic Mobile IOS est un framework d'automation de test mobile basé sur Appium et TestNG, contenant Allure Report et qui s'exécute sur les devices et simulateurs IOS.
 
-Si vous souhaitez tester une application mobile de préférence sur IOS et Mac.<br/>
-🌟Si vous êtes TESTEUR AUTOMATICIEN et que vous voulez apprendre à automatiser des tests fonctionnels.<br/>
-🌟Si vous êtes un RECRUTEUR pour évaluer les compétences de nos testeurs automaticiens talentueux.<br/>
-🌟 Ou encore si vous êtes un PARTICULIER ou une ENTREPRISE à la recherche de solution répondant à vos besoins d'automatisation en test alors ce framework est fait pour vous!<br/><br/>
+Si vous souhaitez tester une application mobile de préférence sur `IOS` et `Mac`.<br/>
+🌟Si vous êtes `TESTEUR AUTOMATICIEN` et que vous voulez apprendre à automatiser des tests fonctionnels.<br/>
+🌟Si vous êtes un `RECRUTEUR` pour évaluer les compétences de nos testeurs automaticiens talentueux.<br/>
+🌟 Ou encore si vous êtes un `PARTICULIER` ou une `ENTREPRISE` à la recherche de solution répondant à vos besoins d'automatisation en test alors ce framework est fait pour vous!<br/><br/>
 
 🎁 Ce framework permet d'exécuter vos tests en séquentiel sur le périphérique IOS de votre choix, que ce soit un device physique ou un simulateur IOS et également sur la plateforme Mac.<br/>
 🎁 Vous pouvez consulter un rapport détaillé des tests avec Allure report.<br/>
