@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 21 08:35:17 GMT 2023","Mon Aug 21 08:35:28 GMT 2023","10271","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidPassword","invalidPassword",""
+"passed","Mon Aug 21 08:35:05 GMT 2023","Mon Aug 21 08:35:17 GMT 2023","12131","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidUsername","invalidUsername",""
+"passed","Mon Aug 21 08:35:28 GMT 2023","Mon Aug 21 08:35:42 GMT 2023","14311","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","successfullLogin","successfullLogin",""
