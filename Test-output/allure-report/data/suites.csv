@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 29 12:34:55 GMT 2023","Fri Sep 29 12:35:03 GMT 2023","8279","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidPassword","invalidPassword",""
-"passed","Fri Sep 29 12:35:03 GMT 2023","Fri Sep 29 12:35:14 GMT 2023","10709","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","successfullLogin","successfullLogin",""
-"passed","Fri Sep 29 12:34:46 GMT 2023","Fri Sep 29 12:34:55 GMT 2023","9108","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidUsername","invalidUsername",""
+"passed","Thu Mar 07 11:20:05 GMT 2024","Thu Mar 07 11:20:16 GMT 2024","11109","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidPassword","invalidPassword",""
+"passed","Thu Mar 07 11:19:50 GMT 2024","Thu Mar 07 11:20:05 GMT 2024","14623","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","invalidUsername","invalidUsername",""
+"passed","Thu Mar 07 11:20:16 GMT 2024","Thu Mar 07 11:20:30 GMT 2024","14247","All Test Suite","Tests ios","FrameworkSimpleIos.tests.LoginTests","FrameworkSimpleIos.tests.LoginTests","successfullLogin","successfullLogin",""

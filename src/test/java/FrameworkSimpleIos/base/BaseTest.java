@@ -5,6 +5,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+import io.appium.java_client.remote.HideKeyboardStrategy;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.service.local.AppiumDriverLocalService;
 import io.appium.java_client.service.local.AppiumServiceBuilder;
@@ -116,6 +117,10 @@ public class BaseTest {
         waitForVisibility(e);
         return e.getAttribute(attribute);
     }
+    public void pressBackBtn(){
+        ((IOSDriver) driver).hideKeyboard(HideKeyboardStrategy.PRESS_KEY, "retour");
+    }
+
     public String getText(WebElement e){
         return getAttribute(e, "label");
     }

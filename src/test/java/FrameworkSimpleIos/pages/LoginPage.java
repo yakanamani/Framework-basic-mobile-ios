@@ -24,6 +24,7 @@ public class LoginPage extends BaseTest {
     public LoginPage enterPassword(String password) {
         clear(passwordTextField);
         sendKey(passwordTextField, password);
+        pressBackBtn();
         return this;
     }
 
